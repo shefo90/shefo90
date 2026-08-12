@@ -21,12 +21,12 @@
 
 ## 🧠 My Focus Areas
 - Focus Areas
-- Backend Development** — Building scalable and secure APIs with Python, FastAPI, Django, and REST APIs.
-- Full-Stack Development** — Developing complete web applications using React, JavaScript, Python, and modern backend technologies.
-- Database Development** — Designing and managing relational databases using PostgreSQL, SQLAlchemy, and database migrations.
-- AI & Machine Learning** — Developing machine learning and computer vision solutions using Python and modern AI frameworks.
-- Automation & Web Scraping** — Building automation tools and data extraction systems using Python and Selenium.
-- DevOps & Deployment** — Working with Docker, Linux, Git, and deployment workflows to build and deploy reliable applications.
+- Backend Development — Building scalable and secure APIs with Python, FastAPI, Django, and REST APIs.
+- Full-Stack Development — Developing complete web applications using React, JavaScript, Python, and modern backend technologies.
+- Database Development — Designing and managing relational databases using PostgreSQL, SQLAlchemy, and database migrations.
+- AI & Machine Learning — Developing machine learning and computer vision solutions using Python and modern AI frameworks.
+- Automation & Web Scraping — Building automation tools and data extraction systems using Python and Selenium.
+- DevOps & Deployment — Working with Docker, Linux, Git, and deployment workflows to build and deploy reliable applications.
 
 
 ## 📊 GitHub Stats & Trophies
