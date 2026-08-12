@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=shiref%20yousry%20ibrahim%20ali&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=full%20stack%20web%20dev&descSize=18&descAlignY=55&textBg=false"/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=shefo90">
+    <img src="https://komarev.com/ghpvc/?username=shefo90&label=Profile%20views&color=00FFFF&style=flat-square" alt="shefo90's profile views" />
+  </a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -11,6 +17,24 @@
 ## 🧠 My Focus Areas
 - Web dev
 - backend
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/shefo90">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shefo90&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="shefo90's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=shefo90&theme=onedark&hide_border=true&cache_seconds=86400" alt="shefo90's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=shefo90&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="shiref yousry ibrahim ali's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shefo90&theme=onedark&radius=10" alt="shefo90's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -60,6 +84,15 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
 </p>
+
+<p align="center">
+  <a href="https://github.com/shefo90">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shefo90&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=shefo90)
+<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
